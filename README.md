@@ -3,7 +3,7 @@
 Personal developer portfolio showcasing my web development projects.
 
 ## Live Site
-[View Portfolio](your netlify link here)
+https://projectportfoleo.netlify.app/
 
 ## Projects Featured
 - Notebook App — browser based drawing and notes app
